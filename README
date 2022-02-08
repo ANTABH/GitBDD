@@ -1,0 +1,6 @@
+1 FAIRE UN FICHIER var.php AVEC VOS DONNEES CONNEXION A VOTRE BDD
+
+$servername = "......";
+$dbname = ".........";
+$dbuser = ".........";
+$dbpassword = "...........";
