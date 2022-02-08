@@ -1,6 +1,6 @@
 1. FAIRE UN FICHIER var.php AVEC VOS DONNEES DE CONNEXION A VOTRE BASE DE DONNÉES
 
-$servername = "......";
-$dbname = ".........";
-$dbuser = ".........";
-$dbpassword = "...........";
+$servername = "...........";    //localhost pour un hébergement en local ou l'URL de votre site
+$dbname = "...............";    //Le nom de votre base de données
+$dbuser = "...............";    //Votre identifiant de connexion à la base de données
+$dbpassword = "...........";    //Votre mot de passe vous permettant de vous connecter à la base de données
